@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/site-verification-and-workflow-management-system-176390-176399/postgresql_database"
+}
